@@ -187,7 +187,6 @@ function repo_init(){
         ],
       },
     });
-    core_escape();
 }
 
 function repo_logic(){
